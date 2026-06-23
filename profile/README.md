@@ -29,10 +29,10 @@ investment outcomes or replace professional judgment.
 
 ## Official Links
 
-Product: https://ipulseai.com
-Company: https://ftredge.com
-LinkedIn: https://www.linkedin.com/company/future-edge-group
-Crunchbase: https://www.crunchbase.com/organization/future-edge
+- Product: https://ipulseai.com
+- Company: https://ftredge.com
+- LinkedIn: https://www.linkedin.com/company/future-edge-group
+- Crunchbase: https://www.crunchbase.com/organization/future-edge
 
 ## Public GitHub Scope
 
