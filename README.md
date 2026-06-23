@@ -1,30 +1,33 @@
-# Future Edge Group
+# iPulse Public Resources
 
-Where intelligent technology meets human ambition.
+iPulse is an AI market intelligence platform by Future Edge Group.
+
+It helps investors and investment teams review market opportunities through AI
+advisor analysis, transparent consensus scoring, forecast paths, asset reports,
+and risk-aware research workflows.
+
+## What iPulse Helps With
+
+- Reviewing market signals with visible reasoning
+- Comparing multiple AI advisor perspectives
+- Exploring Top Picks across supported market assets
+- Inspecting risks, drivers, forecast paths, and consensus scores
+- Supporting research workflows without replacing professional judgment
+
+## Product
+
+Visit iPulse: https://ipulseai.com
+
+## Company
 
 Future Edge Group builds AI-powered financial intelligence products for modern
 market research and decision support.
 
-Our flagship product is iPulse, an AI market intelligence platform that helps
-investors and investment teams review market opportunities through AI advisor
-analysis, transparent consensus scoring, forecast paths, asset reports, and
-risk-aware research workflows.
+Company website: https://ftredge.com
 
-We believe AI is most useful in finance when it makes reasoning more visible,
-not when it hides uncertainty behind a single black-box answer.
+## Public Materials
 
-## iPulse
-
-iPulse helps users compare signals, inspect risks and drivers, and move from
-market noise to structured intelligence.
-
-- Product: https://ipulseai.com
-- Company: https://ftredge.com
-- LinkedIn: https://www.linkedin.com/company/future-edge-group
-- Crunchbase: https://www.crunchbase.com/organization/future-edge
-
-## Public Resources
-
-This GitHub organization contains selected public documentation, examples, and
-developer-facing resources. Core product, infrastructure, data, and operations
-repositories remain private.
+This repository may include sanitized examples, public documentation, product
+screenshots, launch materials, and integration notes. It does not contain
+private application source code, internal data pipelines, infrastructure, auth
+logic, or proprietary model implementation details.
