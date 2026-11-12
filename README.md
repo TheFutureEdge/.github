@@ -1,33 +1,12 @@
-# iPulse Public Resources
+# Future Edge Group on GitHub
 
-iPulse is an AI market intelligence platform by Future Edge Group.
+This repository contains the [public organization profile](profile/README.md) for Future Edge Group, the team behind **iPulse AI** and **Forecast Library**.
 
-It helps investors and investment teams review market opportunities through AI
-advisor analysis, transparent consensus scoring, forecast paths, asset reports,
-and risk-aware research workflows.
+- **[iPulse AI](https://ipulseai.com/):** Open Agentic Investment Research Platform. Explore [asset forecasts](https://ipulseai.com/assets), [company fundamentals](https://ipulseai.com/stocks/google-goog/fundamentals), [Live Rankings](https://ipulseai.com/rankings/markets/buy/1-year), [Editorial Top Picks](https://ipulseai.com/#editorial-picks), and [Economics](https://ipulseai.com/economics).
+- **[Forecast Library](https://forecastlibrary.com/):** public infrastructure for recording and checking forecasts. Browse [public forecasts](https://forecastlibrary.com/forecasts) or see the [Open Forecast Receipt standard and verifier](https://github.com/TheFutureEdge/open-forecast-receipt).
+- **[AI Investment Edge Podcast](https://ipulseai.com/listen):** company and market research in conversation. Listen on [YouTube](https://www.youtube.com/@ipulseai), [Spotify](https://open.spotify.com/show/5SIzXCLMlkkcmwYYGE07k2), or [Apple Podcasts](https://podcasts.apple.com/us/podcast/ai-investment-edge-stocks-markets-money/id6819286473).
+- **[Research and open source](profile/README.md#open-research-datasets-and-software):** papers, reproducible experiments, historical forecast datasets, and public software. The [iPulse AI methodology](https://ipulseai.com/methodology) and [lessons learned](https://ipulseai.com/lessons-learned) explain how the research evolves.
 
-## What iPulse Helps With
+The [September 2026 research batch](https://ipulseai.com/blog/batch-7-ipulse-ai-engine-v7) used Google Gemini 3.8 Flash, Anthropic Claude Opus 5, and OpenAI GPT-6 Astra. The [organization profile](profile/README.md) links to the full product, research, datasets, and open-source projects.
 
-- Reviewing market signals with visible reasoning
-- Comparing multiple AI advisor perspectives
-- Exploring Top Picks across supported market assets
-- Inspecting risks, drivers, forecast paths, and consensus scores
-- Supporting research workflows without replacing professional judgment
-
-## Product
-
-Visit iPulse: https://ipulseai.com
-
-## Company
-
-Future Edge Group builds AI-powered financial intelligence products for modern
-market research and decision support.
-
-Company website: https://ftredge.com
-
-## Public Materials
-
-This repository may include sanitized examples, public documentation, product
-screenshots, launch materials, and integration notes. It does not contain
-private application source code, internal data pipelines, infrastructure, auth
-logic, or proprietary model implementation details.
+[Future Edge Group](https://ftredge.com/) · [GitHub organization](https://github.com/TheFutureEdge) · [LinkedIn](https://www.linkedin.com/company/future-edge-group)
